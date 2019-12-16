@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569540728032",
+    "firebase_url": "https://jadipetani-3915b.firebaseio.com",
+    "project_id": "jadipetani-3915b",
+    "storage_bucket": "jadipetani-3915b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569540728032:android:9cc0b0fc6f751eb35eec85",
+        "android_client_info": {
+          "package_name": "com.hasanta.studio.jadi_petani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569540728032-8p08ijq061b6mlp15rl95q1mvd7t12lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG6gHAJQGM2rJhXlKGPZt1ooHED82M96k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569540728032-8p08ijq061b6mlp15rl95q1mvd7t12lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

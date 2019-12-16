@@ -1,0 +1,56 @@
+name: jadi_petani
+description: jadipetani.com
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  flutter_swiper: ^1.1.6
+  flutter_vector_icons: ^0.2.1
+  firebase_core: ^0.4.0+9
+  firebase_auth: ^0.14.0+5
+  cloud_firestore: ^0.12.9+4
+  flutter_svg: ^0.14.1
+  animated_text_kit: ^1.3.1
+  flutter_screenutil: ^0.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/portfolio-1.jpg
+    - images/portfolio-2.jpg
+    - images/portfolio-3.jpg
+    - images/portfolio-4.jpg
+    - images/client-1.jpg
+    - images/client-2.jpg
+    - images/client-3.jpg
+    - images/client-4.jpg
+    - images/corn-stalks.svg
+    - images/logo.png
+    - images/image_02.png
+    - ss_logo.png
+
+  fonts:
+    - family: CustomIcons
+      fonts:
+        - asset: fonts/CustomIcons.ttf
+
+    - family: Poppins-Bold
+      fonts:
+        - asset: fonts/Poppins-Bold.ttf
+
+    - family: Poppins-Medium
+      fonts:
+        - asset: fonts/Poppins-Medium.ttf
